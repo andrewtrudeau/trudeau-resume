@@ -15,7 +15,7 @@ Using the deployed link, open the webpage and browse it.
 
 ## Links
 
-[Github](https://github.com/andrewtrudeau/20-React-Portfolio)
+[Github](https://github.com/andrewtrudeau/trudeau-resume)
 
 [Website](https://andrewtrudeau.github.io/trudeau-resume/)
 (Deployed using GitHub Pages)
