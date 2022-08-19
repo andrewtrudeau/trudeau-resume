@@ -63,14 +63,13 @@ function App() {
               To save money, I went to Normandale to complete my general credits to prepare me for the University of Minnesota. I achieved an Associated in Liberal Arts and Computer Science.
             </Experience>
             <Experience occupation="University of Minnesota" dateRange="SEPT 2020 - DEC 2021">
-              This is where I gained most of computer science knowledge. I took a wide variety of courses from VR to operating systems. I achieved a Bachelors in Computer Science (Ski-U-Mah).
+              This is where I gained most of computer science knowledge. I took a wide variety of courses from virtual reality to operating systems. I achieved a Bachelors in Computer Science.
             </Experience>
             <Experience occupation="U of M Web Development Boot Camp" dateRange="AUG 2021 - DEC 2021">
-              This course filled in the blacks that I was missing when it came to introducing me to web development. The university only has so much information to give on this subject, I decided to take an extra course while completing my bachelors.
+              This course filled in the blanks when it came to introducing me to web development. My university experience only has so much information to give on this subject, I decided to take an extra course while completing my bachelors.
             </Experience>
           </BasicTextBlock>
         </div>
-        FaGithub
       </div>
 
       <div className="no-click">
