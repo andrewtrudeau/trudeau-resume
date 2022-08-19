@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/trudeau-resume/static/css/main.de584416.css",
+    "main.js": "/trudeau-resume/static/js/main.121c13e2.js",
+    "static/js/787.1ed0c42c.chunk.js": "/trudeau-resume/static/js/787.1ed0c42c.chunk.js",
+    "index.html": "/trudeau-resume/index.html",
+    "main.de584416.css.map": "/trudeau-resume/static/css/main.de584416.css.map",
+    "main.121c13e2.js.map": "/trudeau-resume/static/js/main.121c13e2.js.map",
+    "787.1ed0c42c.chunk.js.map": "/trudeau-resume/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.de584416.css",
+    "static/js/main.121c13e2.js"
+  ]
+}
