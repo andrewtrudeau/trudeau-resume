@@ -37,12 +37,18 @@ function App() {
             <br/>I have tried many different styles of programming languages and have participated in and am familiar with agile workflow. My experiences with a web-development bootcamp and university projects allow me to be caught up with modern development tools. I am excited about being around like-minded passionate individuals to learn from each other.
           </BasicTextBlock>
 
-          <BasicTextBlock icon={<FaSlidersH className="icon" />} name='Skills' >
-            <Skill skillName='HTML' skillLevel={5} />
+          <BasicTextBlock icon={<FaSlidersH className="icon" />} name='Skills/Experience Level' >
+            <Skill skillName='HTML' skillLevel={4} />
             <Skill skillName='CSS' skillLevel={4} />
             <Skill skillName='JavaScript' skillLevel={3} />
             <Skill skillName='React' skillLevel={3} />
             <Skill skillName='Java' skillLevel={4} />
+            <Skill skillName='C#' skillLevel={3} />
+            <Skill skillName='C' skillLevel={3} />
+            <Skill skillName='C++' skillLevel={4} />
+            <Skill skillName='Python' skillLevel={2} />
+            <Skill skillName='Haskell' skillLevel={2} />
+
           </BasicTextBlock>
           <BasicTextBlock icon={<FaToolbox className="icon" />} name='Experience' >
             <h2>Work</h2>
