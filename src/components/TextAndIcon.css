@@ -1,0 +1,9 @@
+p {
+    font-size: 1.25rem;
+    overflow:hidden;
+    text-overflow:ellipsis;   
+}
+
+.container {
+    padding: 0; 
+}

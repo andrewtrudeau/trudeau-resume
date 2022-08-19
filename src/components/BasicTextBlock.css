@@ -1,0 +1,24 @@
+.container {
+    padding: 50px;
+    overflow-wrap: break-word;
+}
+
+.container hr {
+    width: 100%;
+    margin-bottom: 25px;
+}
+
+.icon {}
+
+.text-block-title {
+    font-weight: 100;
+    text-shadow: 0 0 1px black;
+}
+
+.block-text {
+    margin-top: 30px;
+}
+
+p {
+    font-size: 1.25rem;
+}
