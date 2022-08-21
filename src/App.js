@@ -46,7 +46,7 @@ function App() {
             <Skill skillName='C#' skillLevel={3} />
             <Skill skillName='C' skillLevel={3} />
             <Skill skillName='C++' skillLevel={4} />
-            <Skill skillName='Python' skillLevel={2} />
+            <Skill skillName='Python' skillLevel={4} />
             <Skill skillName='Haskell' skillLevel={2} />
 
           </BasicTextBlock>
