@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/trudeau-resume/static/css/main.de584416.css",
-    "main.js": "/trudeau-resume/static/js/main.9248c4a3.js",
+    "main.css": "/trudeau-resume/static/css/main.f3e1b432.css",
+    "main.js": "/trudeau-resume/static/js/main.21dc9358.js",
     "static/js/787.1ed0c42c.chunk.js": "/trudeau-resume/static/js/787.1ed0c42c.chunk.js",
     "index.html": "/trudeau-resume/index.html",
-    "main.de584416.css.map": "/trudeau-resume/static/css/main.de584416.css.map",
-    "main.9248c4a3.js.map": "/trudeau-resume/static/js/main.9248c4a3.js.map",
+    "main.f3e1b432.css.map": "/trudeau-resume/static/css/main.f3e1b432.css.map",
+    "main.21dc9358.js.map": "/trudeau-resume/static/js/main.21dc9358.js.map",
     "787.1ed0c42c.chunk.js.map": "/trudeau-resume/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.de584416.css",
-    "static/js/main.9248c4a3.js"
+    "static/css/main.f3e1b432.css",
+    "static/js/main.21dc9358.js"
   ]
 }
