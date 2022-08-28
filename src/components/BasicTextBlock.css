@@ -13,6 +13,8 @@
 .text-block-title {
     font-weight: 100;
     text-shadow: 0 0 1px black;
+    white-space:nowrap;
+    white-space:pre;
 }
 
 .block-text {
