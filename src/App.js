@@ -52,10 +52,10 @@ function App() {
             I am excited about being around like-minded passionate individuals to learn from each other.
             <h3>Some Projects I Have Made</h3>
             <ul>
-              <li>Drone package delivery simulation using flying and grounded drones. This was a 3-person-group effort (UMN)</li>
-              <li>VR game displaying 3D-virtual-reality-application-design principals in the form of a puzzle game. (UMN)</li>
+              <li>Drone package delivery simulation using flying and grounded drones. This was a 3-person-group effort (UMN CSCI 3081w)</li>
+              <li>VR game displaying 3D-virtual-reality-application-design principals in the form of a puzzle game. (UMN CSCI 5619)</li>
               <li>Heroku mounted MERN App for sharing artwork using authentication with accounts. (UMN Web Dev Bootcamp)</li>
-              <li>Various Physics simulations utilizing state-of-the-art path finding, fluid dynamics, and inverse kinematics algorithms (UMN)</li>
+              <li>Various Physics simulations utilizing state-of-the-art path finding, fluid dynamics, and inverse kinematics algorithms (UMN CSCI 5611)</li>
             </ul>
           </BasicTextBlock>
 
@@ -97,13 +97,13 @@ function App() {
               This is where I gained most of computer science knowledge. I took a wide variety of courses from virtual
               reality to operating systems. I achieved a Bachelors in Computer Science. <span className='bold'>GPA 3.5</span>
             </Experience>
-            <Experience occupation="Eden Prairie Highschool" dateRange="SEPT 2014 - JUNE 2018">
-              Eden Prairie Highschool is a demanding and high-achieving school where I participated in many
-              AP level courses to get ahead on college. <span className='bold'>GPA 3.6</span>
-            </Experience>
             <Experience occupation="Normandale Community College" dateRange="SEPT 2018 - JULY 2020">
               To save money, I went to Normandale to complete my general credits to prepare me for the University of Minnesota.
               I achieved an Associated in Liberal Arts and Computer Science. <span className='bold'>GPA 3.7</span>
+            </Experience>
+            <Experience occupation="Eden Prairie Highschool" dateRange="SEPT 2014 - JUNE 2018">
+              Eden Prairie Highschool is a demanding and high-achieving school where I participated in many
+              AP level courses to get ahead on college. <span className='bold'>GPA 3.6</span>
             </Experience>
             <h2>Work</h2>
             <Experience occupation="Kowalski's Hot Food Chef" dateRange="AUG 2018 - DEC 2021">
